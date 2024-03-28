@@ -1,4 +1,4 @@
-# Projeto Frontend React.js
+# Projeto Frontend do encurtador de links feito com React.js
 
 Bem-vindo ao projeto frontend desenvolvido em React.js!
 
